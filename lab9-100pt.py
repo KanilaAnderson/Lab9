@@ -24,5 +24,8 @@ africaAnswer = raw_input()
 print "what is your temperature?"
 temp = raw_input()
 
+print"if temperature is over 105F"
+temp =raw_input()
 
-
+print"then you will have to go to the hospital"
+hospital = raw_input()
